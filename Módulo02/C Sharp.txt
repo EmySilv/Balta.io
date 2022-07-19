@@ -1,0 +1,19 @@
+Definições
+  - Linguagem de Programação
+    - Tipada, compilada e gerenciada
+  - Criada por Anders Hejlsberg
+    - Em meados de 2001
+  - Principal linguagem da Microsoft
+
+__________________________________________________________________________________________________________________________________________________________________________
+- C# lingugem completa, serve para machine learning, data scienciens. Diversas plataformas usão c# por baixo dos panos. Atualizações constantes.
+
+- Maturidade em seu corpo, tempo de vida dá isso, desde 2001, muitos erros foram cometidos e resolvidos, ou seja é fácil achar ajuda quanto profissionais.
+
+- Mercado em expansão constante tb, principalmente no Brasil, C# e Microsoft tem força muiuto grande em empresas de grande porte (Geralmente são usadas Java e C# como linguagens principais.)
+
+- Comunidade grande e vasta, projetada no mundo todo praticamente.
+
+- Aplicabilidade muito vasta (WEB, MOBILE)
+
+- Orientado a objetos.
