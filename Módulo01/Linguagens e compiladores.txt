@@ -1,59 +1,63 @@
- - Baixo nível: proximidade com a máquina, código binário etc. Quanto mais detalhada a necessidade, menoer é o nível. Assembly é linguagem de baixo nível.
-  - Alto nível: proximidade com o dev, linguagens de programação modernas. C# é lingugagem alto nível.
+Baixo e Alto NÃ­vel
+
+- Baixo nÃ­vel: proximidade com a mÃ¡quina, cÃ³digo binÃ¡rio etc. Quanto mais detalhada a necessidade, menoer Ã© o nÃ­vel. Assembly Ã© linguagem de baixo nÃ­vel.
+  - Alto nÃ­vel: proximidade com o dev, linguagens de programaÃ§Ã£o modernas. C# Ã© lingugagem alto nÃ­vel.
   
 _______________________________________________________________________________________________________________________________________________________________________
  
   - C# no tem tanto controle do processador, como o Assembly tem.*/
   
 _______________________________________________________________________________________________________________________________________________________________________
-  - Linguagem compilada: Escrever o código em linguagem normal (a qual podemos ler e entender) e converter para binário.
+Linguages Compiladas e Interpretadas
   
-  - Linguagens Interpretadas: Não são convertidos para bináro, apenas lido. Feito em tempo real. JS é linguagem interpretada. (Tempo de execução é o que acontece durante a execução do código pelo computador ou interpretadors.)
+  - Linguagem compilada: Escrever o cÃ³digo em linguagem normal (a qual podemos ler e entender) e converter para binÃ¡rio.
+  
+  - Linguagens Interpretadas: NÃ£o sÃ£o convertidos para binÃ¡ro, apenas lido. Feito em tempo real. JS Ã© linguagem interpretada. (Tempo de execuÃ§Ã£o Ã© o que acontece durante a execuÃ§Ã£o do cÃ³digo pelo computador ou interpretadors.)
   
 _______________________________________________________________________________________________________________________________________________________________________
  *Interpretada
     
-     Prós
-      - Não precisa ser compilada
-      - Correções mais fáceis de serem executadas
-      - Mais simples de serem distribuídas
+     PrÃ³s
+      - NÃ£o precisa ser compilada
+      - CorreÃ§Ãµes mais fÃ¡ceis de serem executadas
+      - Mais simples de serem distribuÃ­das
 
     Contras
-      - Detecção de erros
-        (Os erros só aparecem quando a aplicação estiver sendo lida)
-      - Tamanho final da aplicação maior
-        (É mair pois é um arquivo em texto, não em binario, compilado)
-      - Menor otimização da execução
-        (Ferramentas para otimização, mas q são padrão na compilada)
-      - Múltiplos arquivos
+      - DetecÃ§Ã£o de erros
+        (Os erros sÃ³ aparecem quando a aplicaÃ§Ã£o estiver sendo lida)
+      - Tamanho final da aplicaÃ§Ã£o maior
+        (Ã‰ mair pois Ã© um arquivo em texto, nÃ£o em binario, compilado)
+      - Menor otimizaÃ§Ã£o da execuÃ§Ã£o
+        (Ferramentas para otimizaÃ§Ã£o, mas q sÃ£o padrÃ£o na compilada)
+      - MÃºltiplos arquivos
 
  *Compilada
    
-    Prós
-      - Tempo de compilação
-        (Detecção mais rápida de erros)
-      - Tamanho menor das aplicações
+    PrÃ³s
+      - Tempo de compilaÃ§Ã£o
+        (DetecÃ§Ã£o mais rÃ¡pida de erros)
+      - Tamanho menor das aplicaÃ§Ãµes
         (arquivo compacto, binario)
-      - Maior otimização da execução
+      - Maior otimizaÃ§Ã£o da execuÃ§Ã£o
       - Apenas um arquivo final
 
     Contras
       - Precisa de um compilador
       - (Para transformar em uma linguagem de baixo nivel)
-      - Pode ser mais burocrática
+      - Pode ser mais burocrÃ¡tica
       
       _______________________________________________________________________________________________________________________________________________________________________
       Tipagem de Dados
       
-      - Defeinição obrigatório dos tipos de dados
-      (Tipo de Dado = definição dos valores(numérico, literal, caracteres, etc))
+      - DefeiniÃ§Ã£o obrigatÃ³rio dos tipos de dados
+      (Tipo de Dado = definiÃ§Ã£o dos valores(numÃ©rico, literal, caracteres, etc))
       
-      - C# é uma lingugem de alto nivel, compilada e fortemente tipada.
+      - C# Ã© uma lingugem de alto nivel, compilada e fortemente tipada.
       
-      - O let usa o mesmo tamanho de alocação da memoria, ele não sabe sevai usar menos ou mias espaço.
-      - Já no C# as variaveis possuem um tamanho pré-determinado
+      - O let usa o mesmo tamanho de alocaÃ§Ã£o da memoria, ele nÃ£o sabe sevai usar menos ou mias espaÃ§o.
+      - JÃ¡ no C# as variaveis possuem um tamanho prÃ©-determinado
       int => 32-bit
       float => 32 bit
       double  => 64 bit
       decimal => 128 bit
-      O que varia é a quantidade de numeros que conseguimos alocar nos tipos numérico.
+      O que varia Ã© a quantidade de numeros que conseguimos alocar nos tipos numÃ©rico.
