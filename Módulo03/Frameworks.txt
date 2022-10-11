@@ -1,6 +1,7 @@
   Frameworks
   - Alicerce para construção de aplicações;
   - conjunto de bibliotecas;
+    - bibliotecas são conjuntos de subinformações, e quando tem mais de uma biblioteca se chama de framework;
   - base para construir novas aplicações, usando um código que alguém já fez
   - framework não é exclusivo do c#
   - .NET framework da Microsoft
