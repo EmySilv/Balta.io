@@ -1,0 +1,6 @@
+Linguages Compiladas e Interpretadas
+  
+  - Linguagem compilada: Escrever o código em linguagem normal (a qual podemos ler e entender) e converter para binário.
+  
+  - Linguagens Interpretadas: Não são convertidos para bináro, apenas lido. Feito em tempo real. JS é linguagem interpretada. (Tempo de execução é o que acontece durante a execução do código pelo computador ou interpretadors.)
+  
