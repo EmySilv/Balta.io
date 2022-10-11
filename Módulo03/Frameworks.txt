@@ -1,0 +1,47 @@
+  Frameworks
+  - Alicerce para construção de aplicações;
+  - conjunto de bibliotecas;
+  - base para construir novas aplicações, usando um código que alguém já fez
+  - framework não é exclusivo do c#
+  - .NET framework da Microsoft
+  - dotnet reuni coisas do dia-a-dia e afins; Sendo criado junto com o C#;
+    - frameworks poupam nosso tempo e a chance de dar errado é menor;
+_______________________________________________________________________________________________________________________________________________________________________
+  .NET Framework
+  - .net é o framework e c# é a linguagem
+  - primeira versão do dotnet fopi chamada de .NET Framework
+      - versões 1.0, 1.1, 2.0, 3.0, 3.5, 4.x(versão atual é a 4.8);]
+  - pode ser instalada side-by-side(duas versões na mesma máquina, podendo rodar sua aplicação com o 2.0 ou 3.0, por exemplo);
+  - compativel apenas com windows;
+  - legado são softwares que são um pouco mais velhos;
+_______________________________________________________________________________________________________________________________________________________________________
+  .NET Core
+  - versão mais moderna do dotnet framework;
+  - lançado em 2015;
+  - suporta outros sistemas operacionais, não só windows;
+  - Primeiras versões tinham apenas o básico;  
+    - core significa núcleo, o essencial(quando nasceu);
+    - core foi totalmente reescrito pela microsft;
+    - hoje o core tem tudo que precisamos, possibilitandoo uma nova criação de compiladores para o c#, o deixando mais rápido e fácil;
+    - ótima retrocompatibilidade;
+  - versão atual 3.1 é a recomendação da microsoft;
+  - melhor performace
+  - tb suporta a instalação side-by-side
+_______________________________________________________________________________________________________________________________________________________________________
+  .NET Standard
+  - muitas aplicações que foram feitas no framework ainda estão sendo migradas para o core;
+  - podemos ter o framework e o core na mesma máquina, podendo ser utlizados no mesmo projeto com parte da aplicação c# feita com o framework e parte com o core;
+    - tendo um ótimo supote da microsoft;
+  - .NET Standard é uma intersecção dos dois frameworks possibilitando a execução dos projetos mesclados com os frameworks;
+  - .NET Standard não é um framework é um contrato
+
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+
+
+_______________________________________________________________________________________________________________________________________________________________________
