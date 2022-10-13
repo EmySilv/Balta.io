@@ -38,11 +38,23 @@ ________________________________________________________________________________
 
 
 _______________________________________________________________________________________________________________________________________________________________________
-
-
-
+   .NET 5
+   - Lançamento era pra .11.2020;
+   - sendo uma unificação dos frameworks já existentes (.NET Core e .NET Framework);
+   - Core chegou ao nivel do framework em conteudo;
+   - .NET 5 vem da unificação dos outros dois frameworks
 _______________________________________________________________________________________________________________________________________________________________________
-
-
+  LTS
+  - Releases são versões novas de algo, como softwares etc;
+  - .NET Framework não possuia datas de "atualizações";
+    - LTS para todas as versões;
+  - .NET Core possui releases semestrais (a cada 6 meses); 
+    - LTS apenas para as versões terminadas em 1
+  - .NET 5 terá releases anuais;
+    - LTS para versões maiores
+  - LTS: Long Term Support;Suporte de longa data 
+_______________________________________________________________________________________________________________________________________________________________________
+  Versionamento
+  
 
 _______________________________________________________________________________________________________________________________________________________________________
