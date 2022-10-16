@@ -17,7 +17,7 @@ ________________________________________________________________________________
   - legado são softwares que são um pouco mais velhos;
 _______________________________________________________________________________________________________________________________________________________________________
   .NET Core
-  - versão mais moderna do dotnet framework;
+  - é a versão mais moderna do dotnet framework;
   - lançado em 2015;
   - suporta outros sistemas operacionais, não só windows;
   - Primeiras versões tinham apenas o básico;  
@@ -30,19 +30,17 @@ ________________________________________________________________________________
   - tb suporta a instalação side-by-side
 _______________________________________________________________________________________________________________________________________________________________________
   .NET Standard
+  - .NET Standard é uma intersecção dos dois frameworks possibilitando a execução dos projetos mesclados com os frameworks;
+  - .NET Standard não é um framework é um contrato
   - muitas aplicações que foram feitas no framework ainda estão sendo migradas para o core;
   - podemos ter o framework e o core na mesma máquina, podendo ser utlizados no mesmo projeto com parte da aplicação c# feita com o framework e parte com o core;
     - tendo um ótimo supote da microsoft;
-  - .NET Standard é uma intersecção dos dois frameworks possibilitando a execução dos projetos mesclados com os frameworks;
-  - .NET Standard não é um framework é um contrato
-
-
 _______________________________________________________________________________________________________________________________________________________________________
    .NET 5
+   - .NET 5 vem da unificação dos outros dois frameworks
    - Lançamento era pra .11.2020;
    - sendo uma unificação dos frameworks já existentes (.NET Core e .NET Framework);
    - Core chegou ao nivel do framework em conteudo;
-   - .NET 5 vem da unificação dos outros dois frameworks
 _______________________________________________________________________________________________________________________________________________________________________
   LTS
   - Releases são versões novas de algo, como softwares etc;
@@ -54,7 +52,13 @@ ________________________________________________________________________________
     - LTS para versões maiores
   - LTS: Long Term Support;Suporte de longa data 
 _______________________________________________________________________________________________________________________________________________________________________
-  Versionamento
+  Versionamento de Software
+  - Versão semantica;
+    - Alpha, Beta, Realese Candidata(candidata para ser a versão final), Final;
+  - Dado por nnumeros e letras;
+    - sempre que houver um ponto na versão, ele é Major, Minor, Patch;
+      - o primeiro nmr é o Major, mudanças nele são grandes, por ser o nmr Maior; 
+      - o segundo é o Minor, mudanças nele são menores menores;
+      - e o terceiro é o Patch, mudanças nele é a correção de bugs);
   
-
 _______________________________________________________________________________________________________________________________________________________________________
