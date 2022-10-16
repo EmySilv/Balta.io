@@ -71,4 +71,26 @@ ________________________________________________________________________________
     - candidato a versão final
   - Final
     - versão final
+  -IMAGEM ANEXADA NA PASTA
+  - Evitar as 0.0.alguma coisa
 _______________________________________________________________________________________________________________________________________________________________________
+  Runtime e SDK
+  
+  RUNTIME
+  - runtime só roda a aplicação
+  - Runtime é obgrigatório para rodar a aplicação compilada; Execução e gerenciamento;
+  - Aplicações
+    - ASP.NET para criar aplicções WEB
+    - Desktop(INFORME) para aplicações desktop
+    - .NET Core para qualquer outra aplicação
+      - Console, Bach, Serviço
+      - Coisas que não tem interface gráfica
+  - os itens acima tb tem 'N' versões
+  - Compatibilidade de versões, tanto o C# e o ASP.NET tem que estar em uma versão que ambos possam ser executados, por exemplo;
+  - runtime executa
+  
+  SDK (Software Development Kit)
+  - sdk muito maior que o runtime, possuindo tudo que precisamos para criar aplicações
+  - já vem com o Runtime integrado
+  - não da pra instalar o sdk sem o runtime
+  - sdk cria;
