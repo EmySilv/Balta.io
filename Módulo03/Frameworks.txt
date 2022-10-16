@@ -54,11 +54,21 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________________________
   Versionamento de Software
   - Versão semantica;
-    - Alpha, Beta, Realese Candidata(candidata para ser a versão final), Final;
+    - Alpha, Beta, Realese Candidate(candidata para ser a versão final), Final;
   - Dado por nnumeros e letras;
     - sempre que houver um ponto na versão, ele é Major, Minor, Patch;
       - o primeiro nmr é o Major, mudanças nele são grandes, por ser o nmr Maior; 
       - o segundo é o Minor, mudanças nele são menores menores;
       - e o terceiro é o Patch, mudanças nele é a correção de bugs);
+  -IMAGEM ANEXADA NA PASTA
   
+  DEFINIÇÕES 
+  - Alpha
+    - são versões que não sabe como vão ser as coisas;
+  - Beta
+    - são versões que já tem uma estrutura ou pelo menos a ideia de estrutura, mas que ainda pode mudar;
+  -  Realese Candidata
+    - candidato a versão final
+  - Final
+    - versão final
 _______________________________________________________________________________________________________________________________________________________________________
