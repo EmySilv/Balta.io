@@ -1,12 +1,20 @@
   Instalação
-  https://balta.io/player/assistir/5ef614da-366d-6156-d049-694800000000/914e8f31-c6ec-442e-9cfa-000028010401
+  dotnet.microsoft.com/downloads
   
 _______________________________________________________________________________________________________________________________________________________________________
-  Dotnet cli
-   
+  Dotnet CLI
+  - Command Line Interface
+    - Interface de linha de comando
+    - Comandos via terminal
+  - Comandos cmd
+    - dotnet -version (verificação de versão do .NET)
+    - dotnet --list-sdks (SDK's instalados)
+    - dotnet --list-runtimes (Runtimes intalados)
+    - dotnet help (auto-explicativo)
+
 _______________________________________________________________________________________________________________________________________________________________________
   VS Code
-
+  code.visualstudio.com
 _______________________________________________________________________________________________________________________________________________________________________
   Tipos de Projeto
 
