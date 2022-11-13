@@ -17,7 +17,35 @@ ________________________________________________________________________________
   code.visualstudio.com
 _______________________________________________________________________________________________________________________________________________________________________
   Tipos de Projeto
-
+  - Class Library (Biblioteca de classes)
+    - resultado final será DLL (Dynamic-link library, Biblioteca de vinculo dinamico)
+    - não tem interface
+  - Console Aplication 
+    - famosa telinha preta
+    - final aplicação que roda terminal
+    - receber dados, esperar input do usuario
+    - tem resultado visivel
+  - Projeto Web
+    - ASP.NET Web
+    - ASP.NET MVC
+    - ASP.NET WebAPI
+  - Projeto Testes
+    - São projetos que podemos fazer antes de enviar para o cliente. Mais para ver se esá tudo certo ou se precisa corrigirr algo.
+    - Deixar todos os testes automátizados.
+    - Microsft Tests
+    
+    Criando um novo projeto
+    - dotnet cli
+      - dotnet new console (cria um novo console)
+      - dotnet new claslib (nova Class Library)
+      - dotnet new web (cria um projeto ASP.NET Core)
+      - dotnet new mvc (cria um projeto ASP.NET Core tb)
+      - dotnet new webapi (cria um projeto ASP.NET Core tb)
+      - dotnet new mstest (cria um Microsoft Test)
+      entre outros...
+    - Mesmo coisa que gera arquivos iniciais
+    - Especificar uma pasta é o -o
+    
 _______________________________________________________________________________________________________________________________________________________________________
   Fluxo de Execução
 
