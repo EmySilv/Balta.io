@@ -48,6 +48,17 @@ ________________________________________________________________________________
     
 _______________________________________________________________________________________________________________________________________________________________________
   Fluxo de Execução
+  - dotnet restore (restaura pacotes que a aplicaçõ precisa)
+     - Primeira coisa a se fazer quando se tem uma aplicação dotnet é dar um dotnet restore para que baixe todas as dependencias.
+     
+  - dotnet build (compila)
+    
+  - dotnet clean (limpa compilações anteriores)
+    - limpa os itens do cache
+  
+  - dotnet run (compila e executa)
+ 
+  
 
 _______________________________________________________________________________________________________________________________________________________________________
   Variáveis de Ambiente
