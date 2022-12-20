@@ -1,1 +1,7 @@
-BL¡BL¡
+Notas Importantes
+  - n√£o utilizar caracteres especial ou espa√ßo
+  - utilizar camnhos curtos
+  - evitar caminhos de rede
+  - c# √©case sensitive, diferencia maiuscula de minuscula.
+
+______________________________________________________________________________
