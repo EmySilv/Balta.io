@@ -85,4 +85,8 @@ ________________________________________________________________________________
   
 _______________________________________________________________________________________________________________________________________________________________________
   Debug
+  - Modo Realese
+    - Solta a aolicação
+  - Quando executado um DOTNET RUN na aplicação, é como se fossemos um cliente executando ela, ou seja, modo release
+  - para executar o modo debug temos que ir no insetozinho no code.
   
