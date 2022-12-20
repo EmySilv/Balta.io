@@ -75,6 +75,13 @@ ________________________________________________________________________________
   
 _______________________________________________________________________________________________________________________________________________________________________
   Estrutura do App
+  - pasta bin se refere ao binário
+  - arquivo csproj é XML (EXtensible Markup Language) linguagem de marcação.
+  - cada tipo de projeto tem um output e esse csproj é exe(executavel)
+  - target framework mostra qual framework a aplicação tá usando/baseando.
+    link: docs.microsoft.com/pt-br/dotnet/standard/net-standard
+  - toda aplicação que roda sem ser classLibrary tem um ponto de entrada, como o Program.cs; ele sempre vai buscar um arquivo Program.cs para executar
+  - pasta obj, que é o tempo de debug
   
 _______________________________________________________________________________________________________________________________________________________________________
   Debug
