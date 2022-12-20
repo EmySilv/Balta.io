@@ -70,7 +70,7 @@ ________________________________________________________________________________
   - Podendo chaviar essas informações no .net; para fazer isso no RUN é usada a palavra _enviroment_
   - O comando RUN não executa Debug
     - o ambiente onde vc está não significa que vc tá executando o debug, até pq o RUN não faz isso
-
+  // As variáveis de ambiente são cadeias de caracteres que contêm informações sobre o ambiente do sistema e sobre o usuário que está no momento conectado. Alguns programas de software usam as informações para determinar onde colocar arquivos (como por exemplo, os arquivos temporários).
     
   
 _______________________________________________________________________________________________________________________________________________________________________
