@@ -48,21 +48,29 @@ ________________________________________________________________________________
     
 _______________________________________________________________________________________________________________________________________________________________________
   Fluxo de Execução
-  - dotnet restore (restaura pacotes que a aplicaçõ precisa)
+  - dotnet restore (restaura/baixa pacotes que a aplicação precisa)
      - Primeira coisa a se fazer quando se tem uma aplicação dotnet é dar um dotnet restore para que baixe todas as dependencias.
      
   - dotnet build (compila)
+    - te dá avisos e erros após a compilação
     
   - dotnet clean (limpa compilações anteriores)
     - limpa os itens do cache
   
   - dotnet run (compila e executa)
- 
   
-
 _______________________________________________________________________________________________________________________________________________________________________
   Variáveis de Ambiente
-
+  - Os ambientes é onde a aplicação tá rodando, como por exemplo a minha máquina, que é um ambiente de desenvolvimento
+    - Algumas empresas tem um ambiente de teste, outras não.
+    - Assim como o ambiente de homologação, que umas tem outras não. 
+    - E o ambiente de produção, que sai da maquina do dev e vai pro cliente, já sendo exibida.
+  - Cada ambiente tem suas configs
+  - Quando se está num ambiente dedesenvolvimento vc tem as variaveis de ambientes definidas para um desenvolvimento local não de produção.
+  - Podendo chaviar essas informações no .net; para fazer isso no RUN é usada a palavra _enviroment_
+  
+    
+  
 _______________________________________________________________________________________________________________________________________________________________________
   Estrutura do App
   
