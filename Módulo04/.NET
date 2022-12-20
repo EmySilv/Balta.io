@@ -68,7 +68,9 @@ ________________________________________________________________________________
   - Cada ambiente tem suas configs
   - Quando se está num ambiente dedesenvolvimento vc tem as variaveis de ambientes definidas para um desenvolvimento local não de produção.
   - Podendo chaviar essas informações no .net; para fazer isso no RUN é usada a palavra _enviroment_
-  
+  - O comando RUN não executa Debug
+    - o ambiente onde vc está não significa que vc tá executando o debug, até pq o RUN não faz isso
+
     
   
 _______________________________________________________________________________________________________________________________________________________________________
