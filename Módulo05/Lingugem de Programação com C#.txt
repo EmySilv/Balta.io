@@ -5,3 +5,35 @@ Notas Importantes
   - c# écase sensitive, diferencia maiuscula de minuscula.
 
 ______________________________________________________________________________
+  Escopo de um Programa
+  - é tudo que um programa tem para ser executado
+    - no .net temos:
+      - importações doq usaremos, definidas pelo USING;
+      - namespace que são separações lógicas
+      - classe
+      - método principal
+  ______________________________________________________________________________
+  Namespace
+  - divisão lógica
+  - não podemos ter duas classescom mesmo nome em um namespace
+  - recomendado ter um namespace e uma classe por arquivo
+  - escopo do namespace é definido entre chaves, assim como classes e metodos
+  - um namespace pode ser reutilizado, estando presente em varios arquivos
+  - mesmo namespace e a classe diferente pode ter, só n o mesmo namespace e a mesma classe.
+  - pode se ter um namespace dentro do outro usando o "."
+  - pode se ser usado um namespace dentro de outro, fazendo a importação pelo USING;
+  - durante a compilação os arquivos c# são unificados e a divisão fisica se perde e oq sobra é a divisão lógica. Formando uma DLL só
+  ______________________________________________________________________________
+  Using
+  - a importação define as bibliotecas que o programa usará
+  - o basico vem como padrão
+  - palavra USING para esssa importação
+  - serve tb para organizar o codigo em namespace
+  - usar e abusar da criação de arquivos e namespace
+______________________________________________________________________________
+  Variaveis
+  - utilizada para guardar informação
+  - criação é instanciar, de modo técnico
+  - pode ser usado um tipo ou a palavra reservada cvar para criar uma variavel
+  - var é uma forma de evvitar escrecer o tipo da variavel
+  - 
