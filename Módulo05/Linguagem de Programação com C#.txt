@@ -79,4 +79,10 @@ ______________________________________________________________________________
   - utilizado pra representar um byte, de fato
   - tb chamado de byte array
   - sbyte (Signed Byte) permite valor negativo
-  
+______________________________________________________________________________
+  Números Inteiros
+  - sempontuação, definidos por:
+    - short/ushort (16-bit)
+    - int/uint (32-bit)
+    - long/ulong (64-bit)
+  sendo o 'u' significando UNSIGNED (sem sinal), não podendo receber valores negativos
