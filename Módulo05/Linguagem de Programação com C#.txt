@@ -76,4 +76,8 @@ ______________________________________________________________________________
   - tipo base/raiz
   - todos os outro itens do.net derivam do System
 ______________________________________________________________________________
+  Byte
+  - utilizado pra representar um byte, de fato
+  - tb chamado de byte array
+  - sbyte (Signed Byte) permite valor negativo
   
