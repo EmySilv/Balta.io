@@ -36,4 +36,14 @@ ______________________________________________________________________________
   - criação é instanciar, de modo técnico
   - pode ser usado um tipo ou a palavra reservada cvar para criar uma variavel
   - var é uma forma de evvitar escrecer o tipo da variavel
-  - 
+______________________________________________________________________________
+  Constantes 
+  - parecida com o conceito de variavel, mas não podem ser alteradas 
+  - definida pelo const antes do tipo.
+  - sem valor definido, ela inicia com 0
+  - constantes em maiúsculo, separadopor "_"
+______________________________________________________________________________
+  Palavras Reservadas
+  - keywords
+  - exclusivos do c#
+  - não podemos usar essas palavras reservadas
