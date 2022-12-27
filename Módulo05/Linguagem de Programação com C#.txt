@@ -47,3 +47,14 @@ ______________________________________________________________________________
   - keywords
   - exclusivos do c#
   - não podemos usar essas palavras reservadas
+______________________________________________________________________________
+  Comentários  
+  - pode ser feita em:
+      - uma linha;
+      //
+      
+      - multiplas linhas;
+      /*
+      
+      - XML (MetaData)
+      ///
