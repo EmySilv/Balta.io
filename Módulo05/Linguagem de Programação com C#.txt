@@ -94,3 +94,7 @@ ______________________________________________________________________________
     - double (64-bit)
     - decimal (128-bit)
   - pra definir um float colocamos um 'f' no final e o decimal um 'm' no final, pois a conversão padrão é do double
+______________________________________________________________________________
+  Boolean
+  - armazena true or false
+    - bool (8-bit)
