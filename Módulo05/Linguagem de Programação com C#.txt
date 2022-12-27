@@ -56,6 +56,24 @@ ______________________________________________________________________________
       - multiplas linhas;
       /*
       
-      - XML (MetaData)
+      - XML (MetaData): dados adicionais da classe
       ///
+      
   - no vscode 'ctrl + k + c' comenta, e 'ctrl + k + u' tira o comentário.
+______________________________________________________________________________
+  Tipos Primitivos(built-in types)
+  - são os tipos bases do dotnet, inteiros, caracteres, cadeia de caractere, ponto flutuante
+  - definir de forma correta melhora a execução
+  - Value Types
+  - Classificados em:
+    - Tipos Simples (Simple Types)
+    - Enumerados (Enums)
+    - Estruturas (Structs)
+    - Tipos Nulos (Nullable Types)
+  - cada tipo tem a sua capacidade
+______________________________________________________________________________
+  System
+  - tipo base/raiz
+  - todos os outro itens do.net derivam do System
+______________________________________________________________________________
+  
