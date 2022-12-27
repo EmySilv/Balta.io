@@ -58,3 +58,4 @@ ______________________________________________________________________________
       
       - XML (MetaData)
       ///
+  - no vscode 'ctrl + k + c' comenta, e 'ctrl + k + u' tira o comentário.
