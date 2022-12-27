@@ -86,3 +86,11 @@ ______________________________________________________________________________
     - int/uint (32-bit)
     - long/ulong (64-bit)
   sendo o 'u' significando UNSIGNED (sem sinal), não podendo receber valores negativos
+______________________________________________________________________________
+  NÚmeros Reais
+  - numeros com ponto flutuante
+  - defeinidos por:
+    - float (32-bit)
+    - double (64-bit)
+    - decimal (128-bit)
+  - pra definir um float colocamos um 'f' no final e o decimal um 'm' no final, pois a conversão padrão é do double
