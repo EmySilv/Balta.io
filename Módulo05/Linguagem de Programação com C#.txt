@@ -2,8 +2,7 @@ Notas Importantes
   - não utilizar caracteres especial ou espaço
   - utilizar camnhos curtos
   - evitar caminhos de rede
-  - c# écase sensitive, diferencia maiuscula de minuscula.
-
+  - c# é case sensitive, diferencia maiuscula de minuscula.
 ______________________________________________________________________________
   Escopo de um Programa
   - é tudo que um programa tem para ser executado
