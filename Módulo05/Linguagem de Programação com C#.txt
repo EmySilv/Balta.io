@@ -114,5 +114,20 @@ ______________________________________________________________________________
   - substitui o nome de um tipo
   - primeiro valor atribuido é que dá o tipo;
   - atalho para o nome da variavel;
-  
-  
+  - não serve pra quando não sabemos o tipo do dado;
+______________________________________________________________________________
+  Object
+  - tipo genérico que recebe qualquer valor ou objeto, pode ser qualquer coisa;
+  - tipo um var;
+  - não tem intelisence;
+  - tipo desconhecido;
+______________________________________________________________________________
+  Nullable Types
+  - Null
+    - significa vazio
+    - nulo é pra definiçaõ de tipo
+    - diferente de zero ou uma  string vazia
+    - atribuindo null a um objeto ele ficará vazio
+    - feita com uma interrogaçaõ na frente de um tipo
+      ex: int? idade = null;
+ 
