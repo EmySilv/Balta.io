@@ -107,4 +107,12 @@ ______________________________________________________________________________
   String
   - armazena uma cadeia de caracteres;
     - string (?), depende da quantidade de caractere;
-  - atribuiçaõ por aspas duplas;
+  - atribuição por aspas duplas;
+  - podendo ser considerada uma lista de char;
+______________________________________________________________________________
+  Var
+  - substitui o nome de um tipo
+  - primeiro valor atribuido é que dá o tipo;
+  - atalho para o nome da variavel;
+  
+  
