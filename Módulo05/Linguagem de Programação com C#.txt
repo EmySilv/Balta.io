@@ -99,4 +99,8 @@ ______________________________________________________________________________
   - armazena true or false
     - bool (8-bit)
 ______________________________________________________________________________
-
+  Char
+  - armazena somente um caractere no formato Unicode;
+    - char (16-bit);
+  - atribuição por aspas simoples, ex 'D';
+  
