@@ -130,4 +130,30 @@ ______________________________________________________________________________
     - atribuindo null a um objeto ele ficará vazio
     - feita com uma interrogaçaõ na frente de um tipo
       ex: int? idade = null;
+______________________________________________________________________________
+  Alias
+  - apelido que todo tipo no .net tem
+  - nao é exclusivo do .net
+  - um exemplo de alias é o 'string' que é um apelido de 'String'
+  - c# é case sensitive, tanto faz escrever um ou outro
+  - o recomendado é usar os alias
+      - com alias escrevemos menos, ex:
+      int idade = 25; (alias)
+      Int32 idade = 25:
+______________________________________________________________________________
+  Valores Padrões
+  - .net sempre vem com um valor padrão
+  - tipos built-in tem valor padrão
+  - se não houver especificcação, o valor padrão é zero
+    - int = 0
+    - float = 0 
+    - decimal = 0 
+    - bool = false
+    - char = '\0'
+    - String => ""
+______________________________________________________________________________
+  Conversão Implícita
+  - existem dois tipos de conversão implicitas e explicitas
+  
+  
  
