@@ -103,4 +103,8 @@ ______________________________________________________________________________
   - armazena somente um caractere no formato Unicode;
     - char (16-bit);
   - atribuição por aspas simoples, ex 'D';
-  
+______________________________________________________________________________
+  String
+  - armazena uma cadeia de caracteres;
+    - string (?), depende da quantidade de caractere;
+  - atribuiçaõ por aspas duplas;
