@@ -154,6 +154,16 @@ ______________________________________________________________________________
 ______________________________________________________________________________
   Conversão Implícita
   - existem dois tipos de conversão implicitas e explicitas
-  
-  
- 
+  - as implicitas são conversões que podem ser executadas apenas com dados e dados compatives
+   ex:
+      float valor = 28.8f;
+      int outro = 25;
+      
+      valor = outro; // conversão implícita
+  - só ocorre se os tipos e tamnanho for compativel caso contrário não dá
+______________________________________________________________________________
+  Conversão Explicita
+  - obrigatoriamente informar o tipo que sera convertido, acontece quando os tiposs não são compativeis
+  - conversão se dá pelo parentese
+
+______________________________________________________________________________
