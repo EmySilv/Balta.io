@@ -167,3 +167,7 @@ ______________________________________________________________________________
   - conversão se dá pelo parentese
 
 ______________________________________________________________________________
+  Parse
+  - presente em toido metodo primitivo
+  - usado para converter uma string em qualquer outro tipo
+  - se não for compativel, gera erro
