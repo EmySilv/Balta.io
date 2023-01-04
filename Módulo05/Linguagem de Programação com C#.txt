@@ -184,4 +184,13 @@ ______________________________________________________________________________
   -
 ______________________________________________________________________________
   Operadores Aritméticos
+  - soma +
+  - subtração - 
+  - multiplicação / *
+  - divisão = /
   
+  - multiplicação e divisão são feitos primeiros
+  - ordem personalizada se usa o parenteses
+  - aceita todos os tipos númericos
+  - se o valor for real, vai ser arrendondado (int)
+    - 4.4 => 5 
