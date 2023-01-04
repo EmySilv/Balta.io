@@ -194,3 +194,13 @@ ______________________________________________________________________________
   - aceita todos os tipos númericos
   - se o valor for real, vai ser arrendondado (int)
     - 4.4 => 5 
+______________________________________________________________________________
+  Operadores de Atribuição
+  - usamos o igual para atribuir um valor
+  - porem podemos usar o igual com outro operador aritimético para fazer uma cona logo na atribuição
+    ex:
+      int x = 0;
+      int x += 5;
+      int x -= 1
+      int x *= 10;
+      int x /= 2
