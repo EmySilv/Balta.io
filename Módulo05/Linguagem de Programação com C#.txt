@@ -171,3 +171,17 @@ ______________________________________________________________________________
   - presente em toido metodo primitivo
   - usado para converter uma string em qualquer outro tipo
   - se não for compativel, gera erro
+______________________________________________________________________________
+  Convert
+  - parecido com o parse
+  - porem faz a conversão de varios tipos de valores
+  - devemos informar o tipo na hora ad conversão, não o alias
+    ex:
+      int inteiro = Convert.ToInt32("100")
+   - é uma classe, não uma extensão
+______________________________________________________________________________
+  Convertendo Tipos
+  -
+______________________________________________________________________________
+  Operadores Aritméticos
+  
