@@ -161,6 +161,7 @@ ______________________________________________________________________________
       
       valor = outro; // conversão implícita
   - só ocorre se os tipos e tamnanho for compativel caso contrário não dá
+  - tentar converter um numero real pra um inteiro não funciona, mas o contrario funciona.
 ______________________________________________________________________________
   Conversão Explicita
   - obrigatoriamente informar o tipo que sera convertido, acontece quando os tiposs não são compativeis
@@ -179,9 +180,18 @@ ______________________________________________________________________________
     ex:
       int inteiro = Convert.ToInt32("100")
    - é uma classe, não uma extensão
+   
 ______________________________________________________________________________
   Convertendo Tipos
-  -
+  - é conversão implicita e explicita
+  - parse tb
+    - parse espera uma String e não valores reais;
+      string valorReal = real.ToString();
+      inteiro = int.Parse(valorReal);
+      - o .ToString estava convertendo o valor de float para string
+  - convert arredonda os numeros e a conversão é mais "facil"
+    Console.WriteLine(Convert.ToBoolean(0/1/...));
+    vai retornar verdadeiro ou falso no console
 ______________________________________________________________________________
   Operadores Aritméticos
   - soma +
