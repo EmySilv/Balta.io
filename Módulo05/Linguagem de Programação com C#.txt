@@ -214,3 +214,38 @@ ______________________________________________________________________________
       int x -= 1
       int x *= 10;
       int x /= 2
+______________________________________________________________________________
+  Operadores de Comparação
+  - comparar dados
+  - comparação só retorna true or false (boolean)
+    - igual (comparação)
+      - ==
+      
+    - diferente
+      -!=
+      
+    - maior que
+      - >
+      
+    - menor que
+      - <
+      
+    - maiorou igual a 
+      - >=
+      
+    - menor ou igual que
+      - <=  
+      
+  - ex:
+   int x = 25; (atribuição)
+   x == 0; //false (comparação)
+   x != 0; // true (diferente)
+   x > 0; // true (maior que)
+   x < 0; // false (menor que)
+   x >= 0; //true (maior ou igual a)
+   x <= 0; //false (menor ou igual a)
+______________________________________________________________________________
+  Utilizando operadores
+  - colcando em pratica as aulas de operadores
+  - ++ incrementa 1 a variavel
+  - -- retira 1 da variavel
