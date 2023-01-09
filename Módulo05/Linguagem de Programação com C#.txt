@@ -279,9 +279,31 @@ ______________________________________________________________________________
     
   - se o resultado for uma linha pode não ter as chaves no else tb
 ______________________________________________________________________________
-
+  Estrutura condicional: Switch
+  - utilizado para muitas condições
+  - substitui o IF, em grandes proporções
+  - pausa manual com break
+  - execução padrão default
+    ex 
+      int valor = 1;
+      switch (valor)
+      {
+          case 1: Console.WriteLine("1"); break;
+          case 2: Console.WriteLine("2"); break;
+          case 3: Console.WriteLine("3"); break;
+          default: Console.WriteLine("4"); break;
+      }
+  - uma maneira mais facil, comparado ao if
 ______________________________________________________________________________
-
+  Laço de Repetição: For
+  - .net exige 3 parametros
+    - contador
+    - condição
+    - incremento
+      ex    
+        for (var i = 0 (contador); i <= 5 (condição); i++(incrimento, que tá sempre adicionando +1))
+    - se for apenas uma linha, não precisa abrir chaves
+    - basicamente vc declara uma variavel, inicializa ela co um valor e depois diz oq tem que ser feita com essa variavel dentro dos parentesesa o for.
 ______________________________________________________________________________
 
 ______________________________________________________________________________
