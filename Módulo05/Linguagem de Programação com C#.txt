@@ -305,13 +305,78 @@ ______________________________________________________________________________
     - se for apenas uma linha, não precisa abrir chaves
     - basicamente vc declara uma variavel, inicializa ela co um valor e depois diz oq tem que ser feita com essa variavel dentro dos parentesesa o for.
 ______________________________________________________________________________
-  
-______________________________________________________________________________
+  Laço de Repetição: While
+  - tradução: enqaunto
+  - roda até alguma coisa dar falo dentro do programa
+  - checa a condição antes de executar
+  - exige apenas uma condição
+    ex
+      var valor = 0;
+    while (valor <= 5){
+    Console.WriteLine(valor);
+    valor++;
+    
+    or
+    
+    valor++; 
+    Console.WriteLine(valor);  
+}
 
+    while (true){
+    valor++;
+    Console.WriteLine(valor);
+    
+} // vai executar infinitamente
 ______________________________________________________________________________
-
+  Laço de Repetição: Do
+  - tradução: faça
+  - utilizado sempre com o while, seguido do while 
+  - apenas uma condição
+  - checa a condição depois de executar
+    ex
+        do{
+      Console.WriteLine("teste");
+      valor++;
+      } while(valor < 5);
 ______________________________________________________________________________
+  Métodos e Funções
+  - main é um exemplo de metodo
+  - tem retorno, nome e parametros
+  - comecam sempre com maiuscula
+  - assinatura do metodo: oq ele retorna, o nome e os parametros
+      ex: definição 
+          static void MeuMetodo(string parametro){
+              Console.WriteLine(parametro);
+          }
+          
+          invocação
+          static void Main(string[] args){
+              MeuMetodo("C#");
+          }
+______________________________________________________________________________
+  Métodos e Funções: Prática
+  namespace MeuApp{
+    class Program{
+        static void Main(string[] args){
+            MeuMetodo();
 
+            string nome = ReturnName("Emilly", "Vitória");
+            Console.WriteLine(nome);
+        }
+
+        static void MeuMetodo(){
+            Console.WriteLine("C#");
+        }
+
+        static string ReturnName(string name,
+            string middleName, //parametro obrigatorio
+            int idade = 18 //parametro opcional, sempre por ultimo.
+         )
+         {
+            return name + " " + middleName + " tem " + idade.ToString();
+        }
+    }
+} 
 ______________________________________________________________________________
 
 ______________________________________________________________________________
