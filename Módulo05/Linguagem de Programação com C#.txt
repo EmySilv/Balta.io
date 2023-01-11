@@ -305,7 +305,7 @@ ______________________________________________________________________________
     - se for apenas uma linha, não precisa abrir chaves
     - basicamente vc declara uma variavel, inicializa ela co um valor e depois diz oq tem que ser feita com essa variavel dentro dos parentesesa o for.
 ______________________________________________________________________________
-
+  
 ______________________________________________________________________________
 
 ______________________________________________________________________________
