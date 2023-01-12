@@ -378,7 +378,22 @@ ______________________________________________________________________________
     }
 } 
 ______________________________________________________________________________
-
+  Value Types e Reference Types
+  - memoria é dividida em duas partes, Heap e Stack
+  - o Heap guarda os dados 
+  - e o Stack guarda as referencias (endereço)
+  - qualquer tipo no .net vai ser tratado ou como referencia ou como value types
+  - os values types armazanam um dado
+  - built-in, structs, enums são do tipo Heap
+  - Garbage Colleector que é o coletor de lixo, ele olha a heap e ve que tem algo fora de uso, ele remove aquilo
+  - garbage n acessa a memoria stack
+  
+  - reference armazena só o endereço
+  - classes, objetos, arrays, são reference types
+  - armazena a rferencia não o valor em si
+  
+  - sempre que igualamos um tipo, estamos criando uma copia desse valor.
+  
 ______________________________________________________________________________
 
 ______________________________________________________________________________
