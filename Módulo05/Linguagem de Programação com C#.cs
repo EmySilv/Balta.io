@@ -431,7 +431,15 @@ ______________________________________________________________________________
      var product = new Product;
        
 ______________________________________________________________________________
-
+  Enumeradores
+  - usado para melhor visualização do código
+  - representados por inteiros
+  - usados em listas curtas
+  - dados fixos
+    - hard coded
+  - sempre em maiusculo
+    - começam com a letra E
+    
 ______________________________________________________________________________
 
 ______________________________________________________________________________
