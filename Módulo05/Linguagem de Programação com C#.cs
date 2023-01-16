@@ -395,6 +395,37 @@ ______________________________________________________________________________
   - sempre que igualamos um tipo, estamos criando uma copia desse valor.
   
 ______________________________________________________________________________
+  Structs
+  - tipo próprio
+  - tipos de dado estruturado
+  - apenas o esqueleto
+  - armazena outros tipos de dados
+  - nome sempre em maiusculo
+  - pra criar usamos a plavra new
+  - anatomia de estrutura 
+                struct Product
+                {
+                    //propriedades 
+                    
+                    //metodos
+                }
+  - anatomia de propriedade
+                 struct Product
+                {
+                    // propriedades
+                    public int Id
+                }
+  - anatomia do método
+                struct Product
+    {
+        public int Id;
+        public float Prince;
+
+        public float PrinceInDolar(float double)
+        {
+            return Prince * dolar
+        }
+    }
 
 ______________________________________________________________________________
 
