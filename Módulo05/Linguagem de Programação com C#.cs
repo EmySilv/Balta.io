@@ -53,7 +53,7 @@ ______________________________________________________________________________
       //
       
       - multiplas linhas;
-      /*
+      /**/
       
       - XML (MetaData): dados adicionais da classe
       ///
