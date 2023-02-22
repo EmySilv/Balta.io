@@ -1,0 +1,11 @@
+DNS = Domain Name Server (nome de domínio) - faz o deparo
+
+HTTP = Hyper Text Transfer Protocol (protocolo para o funcionamento de sistemas web) - transferencia de texto
+
+HTTPS = Hyper Text Transfer Protocol Secure (mesma coisa, mas com certificado de validação) - protocolo seguro
+
+localhost denomina uma porta por questão de facilidade, pra conseguir rodar mais de um arquivo
+
+toda vez que atualizamos o endereço ele faz um método de get, parapegar, ele usa um post tb, para enviar
+put - atualizar
+delete - excluir
